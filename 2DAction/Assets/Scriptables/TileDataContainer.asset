@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d859d7548e6fb42957f6ca64476ad8, type: 3}
+  m_Name: TileDataContainer
+  m_EditorClassIdentifier: 
+  groundDatas:
+  - id: 0
+    objectType: 0
+    tile: {fileID: 11400000, guid: e0898a4e9e462034a9f0f11c115119e0, type: 2}
+  - id: 1
+    objectType: 0
+    tile: {fileID: 11400000, guid: 4a7022971c662164395d961eb4578564, type: 2}
+  - id: 2
+    objectType: 0
+    tile: {fileID: 11400000, guid: e50d6aee77f63ca4f8196ab6aff45d8c, type: 2}
+  - id: 3
+    objectType: 0
+    tile: {fileID: 11400000, guid: a33c88f56d5e23c489f7b083d40af53e, type: 2}
+  - id: 4
+    objectType: 0
+    tile: {fileID: 11400000, guid: 46631560ca1cb3a4bac29b9f9f089bfe, type: 2}
+  - id: 5
+    objectType: 0
+    tile: {fileID: 11400000, guid: 751413a0e97bd3d4baa027a674d32a8f, type: 2}
+  - id: 6
+    objectType: 0
+    tile: {fileID: 11400000, guid: 4fb92137261646145bc98e4d8a913d3d, type: 2}
+  - id: 7
+    objectType: 0
+    tile: {fileID: 11400000, guid: 81075100e0fba3243a92cebfd0de4227, type: 2}
+  - id: 8
+    objectType: 0
+    tile: {fileID: 11400000, guid: 208c8f14ba97d6f4e9def5dcbea2f427, type: 2}
+  wallDatas:
+  - id: -1
+    objectType: 0
+    tile: {fileID: 0}
+    hardness: 0
+    requireDrillLevel: 0
+    antiExplosive: 0
+    isCollider: 0
+    changeableDir: 0
+  - id: -10001
+    objectType: 0
+    tile: {fileID: 0}
+    hardness: 0
+    requireDrillLevel: 0
+    antiExplosive: 0
+    isCollider: 0
+    changeableDir: 0
+  - id: 10000
+    objectType: 0
+    tile: {fileID: 11400000, guid: abfcd754f80d49540856f84452f91ef9, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10001
+    objectType: 0
+    tile: {fileID: 11400000, guid: 8f40d873d13bd7d409fd730d6913be56, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10002
+    objectType: 0
+    tile: {fileID: 11400000, guid: 241381e95ec55064f992047ce7fb0504, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10003
+    objectType: 0
+    tile: {fileID: 11400000, guid: 41fffbc67cc6124499b4f74b51a1e9a8, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10004
+    objectType: 0
+    tile: {fileID: 11400000, guid: e4b7ad653dab3464f9c27c92ab5d2916, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10005
+    objectType: 0
+    tile: {fileID: 11400000, guid: d768333fa2244c741bf61290a508e8a0, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10006
+    objectType: 0
+    tile: {fileID: 11400000, guid: a725d9fe760a8494dabe6a4daed5cf67, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10007
+    objectType: 0
+    tile: {fileID: 11400000, guid: 4461427c0edb04b428ad7517b95c4f87, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 10008
+    objectType: 0
+    tile: {fileID: 11400000, guid: 85e0887865689e74eb4796e0f1a0d1d7, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 15002
+    objectType: 1
+    tile: {fileID: 11400000, guid: 10a263635d543db47aed79cda6b13833, type: 2}
+    hardness: 0.25
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 0
+    changeableDir: 1
+  - id: 15000
+    objectType: 1
+    tile: {fileID: 11400000, guid: b5876e96ba44d3a47aab0ccec4e3410a, type: 2}
+    hardness: 0.5
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 0
+  - id: 15001
+    objectType: 1
+    tile: {fileID: 11400000, guid: f73b35687d0d1b84fba7408e05668d0a, type: 2}
+    hardness: 0.5
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 1
+  - id: 15003
+    objectType: 1
+    tile: {fileID: 11400000, guid: 31a8bbbf8b8d4e746ae197885034ab8b, type: 2}
+    hardness: 0.5
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 1
+  - id: 15004
+    objectType: 1
+    tile: {fileID: 11400000, guid: f0e49e1c7e7134d449374a9e5f112bc4, type: 2}
+    hardness: 0.5
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 1
+    changeableDir: 1
+  - id: 15005
+    objectType: 1
+    tile: {fileID: 11400000, guid: 42b20d1b805722e4081bca2625238b36, type: 2}
+    hardness: 1
+    requireDrillLevel: 1
+    antiExplosive: 0
+    isCollider: 0
+    changeableDir: 0

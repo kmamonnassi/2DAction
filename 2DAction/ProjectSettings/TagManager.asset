@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - WallNonCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Creature
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1129088747
+    locked: 0
+  - name: Floor
+    uniqueID: 2972473491
+    locked: 0
+  - name: WallNonCollider
+    uniqueID: 4267451791
+    locked: 0
+  - name: Item
+    uniqueID: 1445922505
+    locked: 0
+  - name: CreatureEffectBelow
+    uniqueID: 1918908277
+    locked: 0
+  - name: Creature
+    uniqueID: 176419421
+    locked: 0
+  - name: Projectile
+    uniqueID: 3957703287
+    locked: 0
+  - name: CreatureEffectAbove
+    uniqueID: 1924604639
+    locked: 0
+  - name: Wall
+    uniqueID: 3859844129
+    locked: 0
+  - name: WallCrack
+    uniqueID: 2645532489
+    locked: 0
+  - name: UI
+    uniqueID: 3571376279
+    locked: 0

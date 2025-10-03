@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 606ff23bfb0fe544c86cff1747986b4b, type: 3}
+  m_Name: BiomeDataContainer
+  m_EditorClassIdentifier: 
+  datas:
+  - name: "\u7262\u7344\u5165\u53E3"
+    id: 0
+    baseGroundID: 0
+    baseWallID: 10000
+    themeColor: {r: 0.77254903, g: 0.6431373, b: 0.4627451, a: 1}
+    startPosMin: {x: 500, y: 0}
+    startPosMax: {x: 500, y: 25}
+  - name: "\u5EC3\u54C1\u7F6E\u304D\u5834"
+    id: 1
+    baseGroundID: 1
+    baseWallID: 10001
+    themeColor: {r: 0.74509805, g: 0.74509805, b: 0.74509805, a: 1}
+    startPosMin: {x: 250, y: 250}
+    startPosMax: {x: 350, y: 350}
+  - name: "\u7262\u7344"
+    id: 2
+    baseGroundID: 2
+    baseWallID: 10002
+    themeColor: {r: 0.3882353, g: 0.3882353, b: 0.3882353, a: 1}
+    startPosMin: {x: 825, y: 50}
+    startPosMax: {x: 875, y: 100}
+  - name: "\u6C5A\u67D3\u5730\u5E2F"
+    id: 3
+    baseGroundID: 3
+    baseWallID: 10003
+    themeColor: {r: 0.53130627, g: 0.23028658, b: 0.7075472, a: 1}
+    startPosMin: {x: 50, y: 50}
+    startPosMax: {x: 100, y: 100}
+  - name: "\u5371\u967A\u7269\u51E6\u7406\u5834"
+    id: 4
+    baseGroundID: 4
+    baseWallID: 10004
+    themeColor: {r: 1, g: 0.6666667, b: 0.25882354, a: 1}
+    startPosMin: {x: 600, y: 375}
+    startPosMax: {x: 650, y: 425}
+  - name: "\u751F\u3054\u307F\u7F6E\u304D\u5834"
+    id: 5
+    baseGroundID: 5
+    baseWallID: 10005
+    themeColor: {r: 0.81960785, g: 0.34509805, b: 0.73333335, a: 1}
+    startPosMin: {x: 875, y: 400}
+    startPosMax: {x: 925, y: 450}
+  - name: "\u5B9F\u9A13\u7CFB\u5EC3\u68C4\u7269\u51E6\u7406\u5834"
+    id: 6
+    baseGroundID: 6
+    baseWallID: 10006
+    themeColor: {r: 0.35686275, g: 0.8117647, b: 0.30980393, a: 1}
+    startPosMin: {x: 50, y: 600}
+    startPosMax: {x: 100, y: 650}
+  - name: "\u92FC\u9244\u306E\u6ABB"
+    id: 7
+    baseGroundID: 7
+    baseWallID: 10007
+    themeColor: {r: 0.4339623, g: 0.27268618, b: 0.25178, a: 1}
+    startPosMin: {x: 500, y: 600}
+    startPosMax: {x: 500, y: 650}
+  - name: "\u91D1\u9271\u5C71"
+    id: 8
+    baseGroundID: 8
+    baseWallID: 10008
+    themeColor: {r: 1, g: 0.70456165, b: 0, a: 1}
+    startPosMin: {x: 800, y: 600}
+    startPosMax: {x: 850, y: 650}
